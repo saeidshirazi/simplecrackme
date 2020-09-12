@@ -14,3 +14,16 @@ git clone https://github.com/saeidshirazi97/simplecrackme
 
 ## Usage
 ![Screenshot](img/crackme.png)
+
+## Notes
+I Recommend this walkthrough:
+
+1-Use File commends to get information about challange file.
+
+2-Use Strings Command.
+
+3-Use Hexdump Command.
+
+4-Use OBJDUMP
+
+5-Bypass With NOP operation with dd tools and overwrite challange file
